@@ -39,7 +39,7 @@ _Learning HTML and CSS_
 ### [- Code Learning Page](https://repl.it/@bangsluke/Code-Learning-Page#index.html)
 _A list of links to coding resources and useful sites_
 
-### [- New Tab/Homepage](https://repl.it/@bangsluke/New-Tab-Screen#index.html)
+### [- New Tab Screen](https://repl.it/@bangsluke/New-Tab-Screen#index.html)
 _Place with all key links to favourite sites and key information to be used for new tab loading page_
 
 ### [- Group Page](https://repl.it/@bangsluke/Group-Page#index.html)
