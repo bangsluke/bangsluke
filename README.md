@@ -11,6 +11,15 @@
 
 <!-- https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project -->
 
+<p align="center">
+  <a href="https://github.com/bangsluke?tab=followers">
+    <img src="https://img.shields.io/github/followers/bangsluke?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/bangsluke">
+    <img src="https://img.shields.io/twitter/follow/bangsluke?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+
 ## Table of contents
 * [Introduction](#introduction)
 * [Projects Planned](#projects-planned)
