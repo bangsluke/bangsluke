@@ -33,6 +33,9 @@ _A list of links to coding resources and useful sites_
 ### [- New Tab/Homepage](https://repl.it/@bangsluke/New-Tab-Screen#index.html)
 _Place with all key links to favourite sites and key information to be used for new tab loading page_
 
+### [- Group Page](https://repl.it/@bangsluke/Tits-Group-Page#index.html)
+_The best friends website ever created (ignore the name)_
+
 ### [- Dorkinians Stats Site](https://repl.it/@bangsluke/Dorkinians-Webpage#index.html)
 _Full on database driven site for multiple users to visit_
 
