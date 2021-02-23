@@ -39,8 +39,8 @@ _Homepage for accessing all of my created pages. Page stored within https://gith
 ### [- Online Portfolio](https://bangsluke.github.io/pages/OnlinePort2.html)
 _Learning HTML and CSS. Page stored within https://github.com/bangsluke/bangsluke.github.io_
 
-### [- Code Learning Page](https://github.com/bangsluke/bangsluke-Test-Site/blob/master/README.md)
-_A list of links to coding resources and useful sites. Page stored within https://github.com/bangsluke/bangsluke.github.io_
+### [- Code Learning Page](https://bangsluke.github.io/pages/CodeLearningPage.html)
+_[A list of links to coding resources and useful sites](https://github.com/bangsluke/bangsluke-Test-Site/blob/master/README.md). Page stored within https://github.com/bangsluke/bangsluke.github.io_
 
 ### [- New Tab Screen](https://bangsluke.github.io/pages/NewTab.html)
 _Place with all key links to favourite sites and key information to be used for new tab loading page. Page stored within https://github.com/bangsluke/bangsluke.github.io_
