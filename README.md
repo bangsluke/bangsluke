@@ -33,20 +33,23 @@ I'm at the start of a learning path, looking to go from no knowledge of website 
 
 ## Projects Planned
 
-### [- Online Portfolio](https://repl.it/@bangsluke/OnlinePortfolio#index.html)
-_Learning HTML and CSS_
+### [- Homepage](https://bangsluke.github.io/Homepage.html)
+_Homepage for accessing all of my created pages. Page stored within https://github.com/bangsluke/bangsluke.github.io_
 
-### [- Code Learning Page](https://repl.it/@bangsluke/Code-Learning-Page#index.html)
-_A list of links to coding resources and useful sites_
+### [- Online Portfolio](https://bangsluke.github.io/pages/OnlinePort2.html)
+_Learning HTML and CSS. Page stored within https://github.com/bangsluke/bangsluke.github.io_
 
-### [- New Tab Screen](https://repl.it/@bangsluke/New-Tab-Screen#index.html)
-_Place with all key links to favourite sites and key information to be used for new tab loading page_
+### [- Code Learning Page](https://github.com/bangsluke/bangsluke-Test-Site/blob/master/README.md)
+_A list of links to coding resources and useful sites. Page stored within https://github.com/bangsluke/bangsluke.github.io_
 
-### [- Group Page](https://repl.it/@bangsluke/Group-Page#index.html)
-_The best friends website ever created_
+### [- New Tab Screen](https://bangsluke.github.io/pages/NewTab.html)
+_Place with all key links to favourite sites and key information to be used for new tab loading page. Page stored within https://github.com/bangsluke/bangsluke.github.io_
 
-### [- Dorkinians Stats Site](https://repl.it/@bangsluke/Dorkinians-Webpage#index.html)
-_Full on database driven site for multiple users to visit_
+### [- Group Page](https://bangsluke.github.io/pages/GroupPage/GroupPageHome.html)
+_The best friends website ever created. Page stored within https://github.com/bangsluke/bangsluke.github.io_
+
+### [- Dorkinians Stats Site](https://bangsluke.github.io/pages/DorkiniansWebpage.html)
+_Full on database driven site for multiple users to visit. Page stored within https://github.com/bangsluke/bangsluke.github.io_
 
 
 ## Technologies
