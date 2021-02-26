@@ -20,6 +20,9 @@
   </a>
 </p>
 
+## Key Repository
+* https://github.com/bangsluke/bangsluke.github.io
+
 ## Table of contents
 * [Introduction](#introduction)
 * [Projects Planned](#projects-planned)
