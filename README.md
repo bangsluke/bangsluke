@@ -21,7 +21,11 @@
 </p>
 
 ## Key Repository
-* https://github.com/bangsluke/bangsluke.github.io
+* Repository: https://github.com/bangsluke/bangsluke.github.io
+* Read Me: [bangsluke.github.io](https://bangsluke.github.io/)
+
+![image](https://user-images.githubusercontent.com/61457009/109976729-043e7a80-7cf4-11eb-9d45-6c4bee009e09.png)
+
 
 ## Table of contents
 * [Introduction](#introduction)
