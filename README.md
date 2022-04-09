@@ -5,7 +5,7 @@
 ## Welcome to my GitHub profile 👋
 
 - 🔭 I’m currently working on an online planning tool with my company. SDP, remember the name.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🌱 I’ve initially learned the basics of HTML, CSS and JavaScript and am now looking into React.
 - 👯 I’m looking to collaborate on any project that will aid my learning or help others begin their learning journey.
 - 📫 How to reach me: Drop me an email at bangsluke@gmail.com
 
@@ -44,20 +44,24 @@ I'm at the start of a learning path, looking to go from no knowledge of website 
 _Homepage for accessing all of my created pages. Page stored within https://github.com/bangsluke/bangsluke.github.io_
 
 ### [- Online Portfolio](https://bangsluke.github.io/pages/OnlinePort2.html)
-_Learning HTML and CSS. Page stored within https://github.com/bangsluke/bangsluke.github.io_
+_Learning HTML and CSS._
 
 ### [- Code Learning Page](https://bangsluke.github.io/pages/CodeLearningPage.html)
-_[A list of links to coding resources and useful sites](https://github.com/bangsluke/bangsluke-Test-Site/blob/master/README.md). Page stored within https://github.com/bangsluke/bangsluke.github.io_
+_[A list of links to coding resources and useful sites](https://github.com/bangsluke/bangsluke-Test-Site/blob/master/README.md)._
 
 ### [- New Tab Screen](https://bangsluke.github.io/pages/NewTab.html)
-_Place with all key links to favourite sites and key information to be used for new tab loading page. Page stored within https://github.com/bangsluke/bangsluke.github.io_
+_Place with all key links to favourite sites and key information to be used for new tab loading page._
 
 ### [- Group Page](https://bangsluke.github.io/pages/GroupPage/GroupPageHome.html)
-_The best friends website ever created. Page stored within https://github.com/bangsluke/bangsluke.github.io_
+_The best friends website ever created._
 
 ### [- Dorkinians Stats Site](https://bangsluke.github.io/pages/DorkiniansWebpage.html)
-_Full on database driven site for multiple users to visit. Page stored within https://github.com/bangsluke/bangsluke.github.io_
+_Full on database driven site for multiple users to visit._
 
+## Work Projects
+
+### [- SDP Support Pages](https://sdp-dev-sites.netlify.app/)
+_Support pages for consultants to get further details on the tool._
 
 ## Technologies
 
@@ -65,6 +69,7 @@ I'll be looking to learn and use a number of languages to achieve the projects I
 - HTML (HTML5)
 - CSS (and reviewing SCSS)
 - JavaScript
+- React
 - SQL
 
 ## Launch
