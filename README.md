@@ -9,6 +9,34 @@
 - 👯 I’m looking to collaborate on any project that will aid my learning or help others begin their learning journey.
 - 📫 How to reach me: Drop me an email at bangsluke@gmail.com
 
+<!-- Actual text -->
+
+You can find me on \[!\[Twitter\][1.2]\][1], or on \[!\[LinkedIn\][3.2]\][3].
+
+<!-- Icons -->
+
+<img src= "http://i.imgur.com/wWzX9uB.png">
+<img src= "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png">
+[1.2] : (twitter icon without padding)
+[2.2] :  (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1] : https://twitter.com/Martin_Heinz_
+[2] : https://www.linkedin.com/in/heinz-martin/
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white " alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white " alt="Twitter Badge"/>
+  </a>
+</div>
+
 <!-- Badges -->
 <p align="center">
   <a href="mailto:bangsluke@gmail.com">
@@ -34,56 +62,189 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bangsluke&theme=blue-green">
 </p>
 
-
-
-
 ##### Visitor Counter
+
 ![Visitor Count](https://profile-counter.glitch.me/bangsluke/count.svg)
 
-## Key Repository
-* Repository: https://github.com/bangsluke/bangsluke.github.io
-* Read Me: [bangsluke.github.io](https://bangsluke.github.io/)
-
-![image](https://user-images.githubusercontent.com/61457009/109976729-043e7a80-7cf4-11eb-9d45-6c4bee009e09.png)
+<img src="https://tse4.mm.bing.net/th?id=OIP.YYSYW_-wx2FcjSFva-kq7gHaCm&pid=Api" width="1000" height="2">
 
 ## Table of contents
-* [Introduction](#introduction)
-* [Projects Planned](#projects-planned)
-* [Technologies](#technologies)
-* [Launch](#launch)
+
+- [Introduction](#introduction)
+- [Projects Planned](#projects-planned)
+- [Technologies](#technologies)
+- [Launch](#launch)
+
+<img src="https://tse4.mm.bing.net/th?id=OIP.YYSYW_-wx2FcjSFva-kq7gHaCm&pid=Api" width="1000" height="2">
 
 ## Introduction
 
-I'm at the start of a learning path, looking to go from no knowledge of website creation to a complete set of sites by the end of the year. 
+I'm at the start of a learning path, looking to go from no knowledge of website creation to a complete set of sites and tools.
+
+This README contains a number of projects that I am working on, including both personal and work projects.
+
+<img src="https://tse4.mm.bing.net/th?id=OIP.YYSYW_-wx2FcjSFva-kq7gHaCm&pid=Api" width="1000" height="2">
 
 ## Projects Planned
 
-### [- Homepage](https://bangsluke.github.io/Homepage.html)
-_Homepage for accessing all of my created pages. Page stored within https://github.com/bangsluke/bangsluke.github.io_
+### [Projects Contained](https://bangsluke.github.io/#projects-contained)
 
-### [- Online Portfolio](https://bangsluke.github.io/pages/OnlinePort2.html)
-_Learning HTML and CSS._
+###### <sup>[To Top](#table-of-contents)</sup>
 
-### [- Code Learning Page](https://bangsluke.github.io/pages/CodeLearningPage.html)
-_[A list of links to coding resources and useful sites](https://github.com/bangsluke/bangsluke-Test-Site/blob/master/README.md)._
+All projects are very much WIP so feel free to ignore how terrible they may look. One day they'll be awesome.
 
-### [- New Tab Screen](https://bangsluke.github.io/pages/NewTab.html)
-_Place with all key links to favourite sites and key information to be used for new tab loading page._
+<img src="https://re-mm-assets.s3.amazonaws.com/product_photo/46485/large_large_Poly_RoyalBlue_3_2935U_1471509912.jpg" width="1000" height="1">
 
-### [- Group Page](https://bangsluke.github.io/pages/GroupPage/GroupPageHome.html)
-_The best friends website ever created._
+#### [Homepage](https://bangsluke.github.io/Homepage.html)
 
-### [- Dorkinians Stats Site](https://bangsluke.github.io/pages/DorkiniansWebpage.html)
-_Full on database driven site for multiple users to visit._
+> Homepage for accessing all of my created pages. <sub>Page stored within [bangsluke.github.io](https://github.com/bangsluke/bangsluke.github.io).</sub>
 
-## Work Projects
+<!-- Project Badges and Image -->
+<p align="center">
+  <a href="https://github.com/bangsluke/Homepage" alt="Stable release version badge">
+    <img src="https://img.shields.io/badge/version-1.0.0-blue)" />
+  </a>
+  <a href="https://github.com/bangsluke/Homepage">
+    <img src="https://img.shields.io/badge/Repo_Status-Active-informational?style=flat&logo=LOGO_NAME&logoColor=white&color=2bbc8a)" alt="Repo status badge" />
+  </a>
 
-### [- SDP Support Pages](https://sdp-dev-sites.netlify.app/)
-_Support pages for consultants to get further details on the tool._
+  <a href="https://github.com/bangsluke/Homepage">
+    <img src="https://i.imgur.com/mUSoISm.png)" alt="Page Image" height="400" />
+  </a>
+</p>
+
+<img src="https://re-mm-assets.s3.amazonaws.com/product_photo/46485/large_large_Poly_RoyalBlue_3_2935U_1471509912.jpg" width="1000" height="1">
+
+#### [New Tab Screen](https://bangsluke.github.io/pages/NewTab.html)
+
+> Place with all key links to favourite sites and key information to be used for new tab loading page. <sub>Page stored within [bangsluke.github.io](https://github.com/bangsluke/bangsluke.github.io).</sub>
+
+<!-- Project Badges and Image -->
+<p align="center">
+  <a href="https://bangsluke.github.io/pages/NewTab.html" alt="Stable release version badge">
+    <img src="https://img.shields.io/badge/version-1.0.0-blue)" />
+  </a>
+  <a href="https://bangsluke.github.io/pages/NewTab.html">
+    <img src="https://img.shields.io/badge/Repo_Status-Active-informational?style=flat&logo=LOGO_NAME&logoColor=white&color=2bbc8a)" alt="Repo status badge" />
+  </a>
+
+  <a href="https://bangsluke.github.io/pages/NewTab.html">
+    <img src="https://i.imgur.com/YVeHBjP.png)" alt="Page Image" height="400" />
+  </a>
+</p>
+
+<img src="https://re-mm-assets.s3.amazonaws.com/product_photo/46485/large_large_Poly_RoyalBlue_3_2935U_1471509912.jpg" width="1000" height="1">
+
+#### [Online Portfolio](https://bangsluke-portfolio.netlify.app/)
+
+> An online Portfolio to display my experience.
+
+<!-- Project Badges and Image -->
+<p align="center">
+  <a href="https://bangsluke-portfolio.netlify.app/" alt="Stable release version badge">
+    <img src="https://img.shields.io/badge/version-1.0.0-blue)" />
+  </a>
+  <a href="https://bangsluke-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Repo_Status-Active-informational?style=flat&logo=LOGO_NAME&logoColor=white&color=2bbc8a)" alt="Repo status badge" />
+  </a>
+
+  <a href="https://bangsluke-portfolio.netlify.app/">
+    <img src="https://i.imgur.com/I4vTw3s.png)" alt="Page Image" height="400" />
+  </a>
+</p>
+
+<img src="https://re-mm-assets.s3.amazonaws.com/product_photo/46485/large_large_Poly_RoyalBlue_3_2935U_1471509912.jpg" width="1000" height="1">
+
+#### [Code Learning Page](https://bangsluke.github.io/pages/CodeLearningPage.html)
+
+> A list of links to coding resources and useful sites.
+
+<!-- Project Badges and Image -->
+<p align="center">
+  <a href="https://github.com/bangsluke/Code-Learning-And-Test-Site#readme" alt="Stable release version badge">
+    <img src="https://img.shields.io/badge/version-1.1.0-blue)" />
+  </a>
+  <a href="https://github.com/bangsluke/Code-Learning-And-Test-Site#readme">
+    <img src="https://img.shields.io/badge/Repo_Status-Active-informational?style=flat&logo=LOGO_NAME&logoColor=white&color=2bbc8a)" alt="Repo status badge" />
+  </a>
+  <a href="https://code-learning-and-test-site.netlify.app/">
+    <img src="https://api.netlify.com/api/v1/badges/d6587b8a-4164-4757-9f1f-f1f73e3940ea/deploy-status" alt="Netlify status badge" />
+  </a>
+
+  <a href="https://github.com/bangsluke/Code-Learning-And-Test-Site#readme">
+    <img src="https://i.imgur.com/VX0EYlP.png)" alt="Page Image" height="400" />
+  </a>
+</p>
+
+<img src="https://re-mm-assets.s3.amazonaws.com/product_photo/46485/large_large_Poly_RoyalBlue_3_2935U_1471509912.jpg" width="1000" height="1">
+
+#### [SDP](https://bangsluke.github.io/pages/SDP/SDPDocumentation.html)
+
+> Pages to support my work project, [SDP](https://sdp.rle.de/#home).
+
+<!-- Project Badges and Image -->
+<p align="center">
+  <a href="https://sdp-dev-sites.netlify.app/" alt="Stable release version badge">
+    <img src="https://img.shields.io/badge/version-1.1.0-blue)" />
+  </a>
+  <a href="https://sdp-dev-sites.netlify.app/">
+    <img src="https://img.shields.io/badge/Repo_Status-Active-informational?style=flat&logo=LOGO_NAME&logoColor=white&color=2bbc8a)" alt="Repo status badge" />
+  </a>
+
+  <a href="https://sdp-dev-sites.netlify.app/">
+    <img src="https://i.imgur.com/3YZ37vJ.png)" alt="Page Image" height="400" />
+  </a>
+</p>
+
+<img src="https://re-mm-assets.s3.amazonaws.com/product_photo/46485/large_large_Poly_RoyalBlue_3_2935U_1471509912.jpg" width="1000" height="1">
+
+#### [Group Page](https://bangsluke.github.io/pages/Group-Page/index.html)
+
+> The single most awesome and offensive friends group website ever created.
+
+<!-- Project Badges and Image -->
+<p align="center">
+  <a href="https://group-page.netlify.app/#da39a3ee5e6b4b0d3255bfef95601890afd80709" alt="Stable release version badge">
+    <img src="https://img.shields.io/badge/version-1.1.0-blue)" />
+  </a>
+  <a href="https://group-page.netlify.app/#da39a3ee5e6b4b0d3255bfef95601890afd80709">
+    <img src="https://img.shields.io/badge/Repo_Status-Active-informational?style=flat&logo=LOGO_NAME&logoColor=white&color=2bbc8a)" alt="Repo status badge" />
+  </a>
+  <a href="https://app.netlify.com/sites/group-page/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/c401143c-a8f6-43e7-a788-64671b9972ef/deploy-status" alt="Netlify status badge" />
+  </a>
+
+  <a href="https://group-page.netlify.app/#da39a3ee5e6b4b0d3255bfef95601890afd80709">
+    <img src="https://i.imgur.com/gNMuv2w.png)" alt="Page Image" height="400" />
+  </a>
+</p>
+
+<img src="https://re-mm-assets.s3.amazonaws.com/product_photo/46485/large_large_Poly_RoyalBlue_3_2935U_1471509912.jpg" width="1000" height="1">
+
+#### [Dorkinians Stats Site](https://bangsluke.github.io/pages/DorkiniansWebpage.html)
+
+> Full on database driven site for multiple users to visit.
+
+<!-- Project Badges and Image -->
+<p align="center">
+  <a href="https://dorkinians-dev-site.netlify.app/" alt="Stable release version badge">
+    <img src="https://img.shields.io/badge/version-1.4.0-blue)" />
+  </a>
+  <a href="https://dorkinians-dev-site.netlify.app/">
+    <img src="https://api.netlify.com/api/v1/badges/c401143c-a8f6-43e7-a788-64671b9972ef/deploy-status" alt="Netlify status badge" />
+  </a>
+
+  <a href="https://dorkinians-dev-site.netlify.app/">
+    <img src="https://i.imgur.com/4AV9PCJ.png)" alt="Page Image" height="400" />
+  </a>
+</p>
+
+<img src="https://tse4.mm.bing.net/th?id=OIP.YYSYW_-wx2FcjSFva-kq7gHaCm&pid=Api" width="1000" height="2">
 
 ## Technologies
 
 I'll be looking to learn and use a number of languages to achieve the projects I'm working on including;
+
 - HTML (HTML5)
 - CSS (and reviewing SCSS)
 - JavaScript
@@ -91,7 +252,9 @@ I'll be looking to learn and use a number of languages to achieve the projects I
 - SQL
 
 <!-- Language Badges -->
+
 ### In Progress
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -104,8 +267,8 @@ I'll be looking to learn and use a number of languages to achieve the projects I
   <br>
 </p>
 
-
 ### Coming Soon
+
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -114,6 +277,18 @@ I'll be looking to learn and use a number of languages to achieve the projects I
   <br>
 </p>
 
+<img src="https://tse4.mm.bing.net/th?id=OIP.YYSYW_-wx2FcjSFva-kq7gHaCm&pid=Api" width="1000" height="2">
+
 ## Launch
 
-My various projects will require various launch methods, most of which I'm still unsure of!
+### [New Tab Screen](https://bangsluke.github.io/pages/NewTab.html)
+
+To set up and begin using this page as your New tab page in Google Chrome, you need to add a Chrome extension.
+
+I've used the aptly named "New Tab Redirect". See the [link](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna) provided.
+
+<img src="https://re-mm-assets.s3.amazonaws.com/product_photo/46485/large_large_Poly_RoyalBlue_3_2935U_1471509912.jpg" width="1000" height="1">
+
+### Other Projects
+
+The other projects do not have set up instructions, you just need to visit the site.
