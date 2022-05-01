@@ -123,7 +123,7 @@ All projects are very much WIP so feel free to ignore how terrible they may look
   </a>
 
   <a href="https://github.com/bangsluke/Homepage">
-    <img src="https://i.imgur.com/mUSoISm.png)" alt="Page Image" height="400" width="auto" />
+    <img src="https://i.imgur.com/mUSoISm.png)" alt="Page Image" height="400" />
   </a>
 </p>
 
@@ -143,7 +143,7 @@ All projects are very much WIP so feel free to ignore how terrible they may look
   </a>
 
   <a href="https://bangsluke.github.io/pages/NewTab.html">
-    <img src="https://i.imgur.com/YVeHBjP.png)" alt="Page Image" height="400" width="auto" />
+    <img src="https://i.imgur.com/YVeHBjP.png)" alt="Page Image" width="auto" />
   </a>
 </p>
 
@@ -189,7 +189,7 @@ All projects are very much WIP so feel free to ignore how terrible they may look
   </a>
 
   <a href="https://github.com/bangsluke/Code-Learning-And-Test-Site#readme">
-    <img src="https://i.imgur.com/VX0EYlP.png)" alt="Page Image" height="400" width="auto" />
+    <img src="https://i.imgur.com/VX0EYlP.png)" alt="Page Image" width="100%" />
   </a>
 </p>
 
@@ -212,7 +212,7 @@ All projects are very much WIP so feel free to ignore how terrible they may look
   </a>
 
   <a href="https://sdp-dev-sites.netlify.app/">
-    <img src="https://i.imgur.com/3YZ37vJ.png)" alt="Page Image" height="400" width="auto" />
+    <img src="https://i.imgur.com/3YZ37vJ.png)" alt="Page Image" height="auto" width="100%" />
   </a>
 </p>
 
@@ -235,7 +235,7 @@ All projects are very much WIP so feel free to ignore how terrible they may look
   </a>
 
   <a href="https://group-page.netlify.app/#da39a3ee5e6b4b0d3255bfef95601890afd80709">
-    <img src="https://i.imgur.com/gNMuv2w.png)" alt="Page Image" height="400" width="auto" />
+    <img src="https://i.imgur.com/gNMuv2w.png)" alt="Page Image" width="100%" height="auto" />
   </a>
 </p>
 
