@@ -4,7 +4,8 @@
 
 ## 👋 Welcome to my GitHub profile
 
-- 🔭 I’m currently working on an online planning tool with my company. SDP, remember the name.
+- 🔭 I’m currently working on online planning tools utilising algorithms to solve Automotive problems with my company.
+- 🌱 I’ve initially learned the basics of React, NextJS and NestJS and am now looking into furthering my understanding of all three.
 - 📫 How to reach me: Drop me an email at bangsluke@gmail.com or message me via [LinkedIn](https://www.linkedin.com/in/bangsluke/).
 
 <br>
