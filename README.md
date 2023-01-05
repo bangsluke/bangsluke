@@ -2,6 +2,8 @@
 
 <!-- **bangsluke/bangsluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+For a link to the HelperDoc, click [here](https://github.com/bangsluke/bangsluke.github.io/blob/newMDFile/HelperDoc.md)
+
 ## 👋 Welcome to my GitHub profile
 
 - 🔭 I’m currently working on online planning tools utilising algorithms to solve Automotive problems with my company.
