@@ -47,7 +47,7 @@ New developer, migrated from an Automotive Engineering role into front end. Expe
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to badge">
   </a>
   <!-- Helper Doc -->
-  <a href="[https://dev.to/bangsluke](https://github.com/bangsluke/bangsluke.github.io/blob/newMDFile/HelperDoc.md)">
+  <a href="https://github.com/bangsluke/bangsluke.github.io/blob/main/HelperDoc.md">
     <img src="https://img.shields.io/badge/Helper-Doc-b515d6?style=for-the-badge&logo=doc&logoColor=white" alt="Helper Doc Link">
   </a>
 </p>
