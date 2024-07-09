@@ -8,11 +8,11 @@ New developer, migrated from an Automotive Engineering role into front end. Expe
 
 ## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my GitHub profile
 
-* 🌍  I'm based in Chelmsford, Essex, UK
-* 🖥️  See my portfolio at [bangsluke-portfolio.netlify.app](http://bangsluke-portfolio.netlify.app/)
-* ✉️  You can contact me at [bangsluke@gmail.com](mailto:bangsluke@gmail.com) or message me via [LinkedIn](https://www.linkedin.com/in/bangsluke/).
-* 🧠  I'm learning React, Next and investigating various backend and database set ups
-* 🔭 I’m currently working on online planning tools utilising algorithms to solve Automotive problems with my company
+* 🌍 I'm based in Chelmsford, Essex, UK
+* 🖥️ See my portfolio at <a href="https://bangsluke-portfolio.netlify.app/" target="_blank">bangsluke-portfolio.netlify.app</a>
+* ✉️ You can contact me at [bangsluke@gmail.com](mailto:bangsluke@gmail.com) or message me via [LinkedIn](https://www.linkedin.com/in/bangsluke/).
+* 🧠 I'm learning React, Next and investigating various backend and database set ups
+* 🔭 I’m currently working on Project and Financial Reporting tools for my Automotive consultancy company
 
 <br>
 
@@ -65,12 +65,12 @@ New developer, migrated from an Automotive Engineering role into front end. Expe
 
 ## Technologies
 
-I'll be looking to learn and use a number of languages to achieve the projects I'm working on including the below. For a better breakdown of my abilities in each, see my [portfolio](https://bangsluke-portfolio.netlify.app/);
+I'll be looking to learn and use a number of languages to achieve the projects I'm working on including the below. For a better breakdown of my abilities in each, see my <a href="https://bangsluke-portfolio.netlify.app/" target="_blank">Portfolio</a>;
 
 <!-- Language Badges -->
 <h3 align="center">Current Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -83,6 +83,7 @@ I'll be looking to learn and use a number of languages to achieve the projects I
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
   <br>
 </p>
 
@@ -90,10 +91,11 @@ I'll be looking to learn and use a number of languages to achieve the projects I
 <h3 align="center">Resources</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
@@ -101,13 +103,11 @@ I'll be looking to learn and use a number of languages to achieve the projects I
   <br>
 </p>
 
-For a better breakdown of competencies, please visit my [Project Portfolio](https://bangsluke-portfolio.netlify.app/)
+For a better breakdown of competencies, please visit my <a href="https://bangsluke-portfolio.netlify.app/" target="_blank">Project Portfolio</a>
 
 <h3 align="center">Learning</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFBk">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
@@ -137,7 +137,7 @@ For a better breakdown of competencies, please visit my [Project Portfolio](http
 
 All projects are very much WIP so feel free to ignore how terrible they may look. One day they'll be awesome. Any and all suggestions are welcome.
 
-For a summary of my Project Portfolio, please visit the Portfolio section of [my site](https://bangsluke-portfolio.netlify.app/).
+For a summary of my Project Portfolio, please visit the Portfolio section of <a href="https://bangsluke-portfolio.netlify.app/" target="_blank">my site</a>.
 
 <!-- Project Badges and Image -->
 <p align="center">
