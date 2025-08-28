@@ -112,4 +112,6 @@ For a summary of my developed projects, please visit <a href="https://bangsluke-
   <a href="https://bangsluke-portfolio.netlify.app/projects/" target="_blank"><img src="https://i.imgur.com/RU7qbSk.png" alt="Project Gallery Page Image" width="auto" /></a>
 </div>
 
+<br>
+
 > [Back to Table of Contents](#table-of-contents)
