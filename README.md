@@ -1,7 +1,9 @@
 <!-- **bangsluke/bangsluke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p align="center">
-  <img src="https://i.postimg.cc/3RZn08zP/Portfolio-Site-V2.png" alt="bangsluke Logo" height="100"/>
+  <a href="https://bangsluke-portfolio.netlify.app/" target="_blank">
+    <img src="https://i.postimg.cc/3RZn08zP/Portfolio-Site-V2.png" alt="bangsluke Logo" height="100"/>
+  </a>
 </p>
 
 # Luke Bangs
