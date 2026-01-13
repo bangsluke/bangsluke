@@ -15,8 +15,8 @@ Software developer with a passion for building web applications and automating p
 * 🌍 I'm based in Chelmsford, Essex, UK
 * ✉️ You can contact me at <a href="mailto:bangsluke@gmail.com" target="_blank">bangsluke@gmail.com</a> or message me via <a href="https://www.linkedin.com/in/bangsluke/" target="_blank">LinkedIn</a>
 * 🖥️ See my portfolio at <a href="https://bangsluke-portfolio.netlify.app/" target="_blank">bangsluke-portfolio.netlify.app</a>
-* 🧠 I'm learning React, Next and investigating various backend and database set ups
-* 🔭 I’m currently working on Project and Financial Reporting tools for my Automotive consultancy company
+* 🧠 I'm continuing to learn React, Next and investigating various backend and database set ups such using GraphQL and Neo4j
+* 🔭 I’m currently looking for a new role in the software development industry
 
 <br>
 
@@ -122,10 +122,10 @@ For a summary of my developed projects, please visit <a href="https://bangsluke-
 
 ## CV / Resume
 
-To see my CV, please visit <a href="https://bangsluke-portfolio.netlify.app/Luke-Bangs-CV.pdf" target="_blank">this link</a>.
+To see my full CV, please visit <a href="https://bangsluke-portfolio.netlify.app/Luke-Bangs-CV.pdf" target="_blank">this link</a>.
 
 <div align="center">
-  <a href="https://bangsluke-portfolio.netlify.app/Luke-Bangs-CV.pdf" target="_blank"><img src="https://i.postimg.cc/DwWjXjk0/CV-Image.png" alt="CV Image"/></a>
+  <a href="https://bangsluke-portfolio.netlify.app/Luke-Bangs-CV.pdf" target="_blank"><img src="https://i.postimg.cc/DwWjXjk0/CV-Image.png" alt="CV Image" height="400" /></a>
 </div>
 
 <br>
