@@ -113,7 +113,7 @@ For a summary of my developed projects, please visit <a href="https://bangsluke-
   <a href="https://bangsluke-portfolio.netlify.app/" alt="Stable release version badge"><img src="https://img.shields.io/badge/version-2.0.0-blue)" alt="Version Release Badge"/></a>
   <a href="https://bangsluke-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Repo_Status-Active-informational?style=flat&logo=LOGO_NAME&logoColor=white&color=2bbc8a)" alt="Repo status badge" /></a>
   <a href="https://bangsluke-portfolio.netlify.app/"><img src="https://api.netlify.com/api/v1/badges/74382ffe-3ab7-4286-b952-4f39139e869c/deploy-status" alt="Netlify status badge" /></a>
-  <a href="https://bangsluke-portfolio.netlify.app/projects/" target="_blank"><img src="https://i.postimg.cc/9X1gbH0F/Portoflio-Dark.png" alt="Project Gallery Page Image" width="auto" /></a>
+  <a href="https://bangsluke-portfolio.netlify.app/projects/" target="_blank"><img src="https://i.postimg.cc/3xfjkgyM/Portfolio.png" alt="Project Gallery Page Image" width="auto" /></a>
 </div>
 
 <br>
@@ -125,7 +125,7 @@ For a summary of my developed projects, please visit <a href="https://bangsluke-
 To see my full CV, please visit <a href="https://bangsluke-portfolio.netlify.app/Luke-Bangs-CV.pdf" target="_blank">this link</a>.
 
 <div align="center">
-  <a href="https://bangsluke-portfolio.netlify.app/Luke-Bangs-CV.pdf" target="_blank"><img src="https://i.postimg.cc/j2N5s4Lc/CV_Image.png" alt="CV Image" height="400" /></a>
+  <a href="https://bangsluke-portfolio.netlify.app/Luke-Bangs-CV.pdf" target="_blank"><img src="https://i.postimg.cc/9QgPDGDv/CV_Image.png" alt="CV Image" height="400" /></a>
 </div>
 
 <br>
