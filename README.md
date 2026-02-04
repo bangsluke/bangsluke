@@ -75,6 +75,7 @@ I'll be looking to learn and use a number of languages to achieve the projects I
   <img src="https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand">
   <img src="https://img.shields.io/badge/Docusaurus-43853D?style=for-the-badge&logo=docusaurus&logoColor=white" alt="Docusaurus">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
+  <img src="https://img.shields.io/badge/Cypress-2AD796?style=for-the-badge&logo=cypress&logoColor=103045" alt="Cypress">
   <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white" alt="Playwright">
   <br>
 </div>
@@ -82,6 +83,7 @@ I'll be looking to learn and use a number of languages to achieve the projects I
 <!-- Resources Badges -->
 <h3 align="center">Resources</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Git-EA5436?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
@@ -89,12 +91,18 @@ I'll be looking to learn and use a number of languages to achieve the projects I
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/Cursor-2A2B35?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/Antigravity-2F8EF5?style=for-the-badge&logo=antigravity&logoColor=white" alt="Antigravity">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/PowerShell-0078D4?style=for-the-badge&logo=PowerShell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/NPM-CD3E3D?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/Yarn-3392BD?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
+  <img src="https://img.shields.io/badge/pnpm-F9B008?style=for-the-badge&logo=pnpm&logoColor=white" alt="PNPM">
   <br>
 </div>
 
