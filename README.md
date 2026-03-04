@@ -121,7 +121,7 @@ For a summary of my developed projects, please visit <a href="https://bangsluke-
   <a href="https://bangsluke-portfolio.netlify.app/" alt="Stable release version badge"><img src="https://img.shields.io/badge/version-2.0.0-blue)" alt="Version Release Badge"/></a>
   <a href="https://bangsluke-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Repo_Status-Active-informational?style=flat&logo=LOGO_NAME&logoColor=white&color=2bbc8a)" alt="Repo status badge" /></a>
   <a href="https://bangsluke-portfolio.netlify.app/"><img src="https://api.netlify.com/api/v1/badges/74382ffe-3ab7-4286-b952-4f39139e869c/deploy-status" alt="Netlify status badge" /></a>
-  <a href="https://bangsluke-portfolio.netlify.app/projects/" target="_blank"><img src="https://bangsluke-assets.netlify.app/images/projects/Portfolio.png" alt="Project Gallery Page Image" width="auto" /></a>
+  <a href="https://bangsluke-portfolio.netlify.app/projects/" target="_blank"><img src="https://bangsluke-assets.netlify.app/images/portfolio-pictures/Portfolio.png" alt="Project Gallery Page Image" width="auto" /></a>
 </div>
 
 <br>
