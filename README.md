@@ -130,7 +130,7 @@ For a summary of my developed projects, please visit <a href="https://bangsluke-
 
 ## CV / Resume
 
-To see my full CV, please visit <a href="https://bangsluke-portfolio.netlify.app/Luke-Bangs-CV.pdf" target="_blank">this link</a>.
+To see my full CV, please visit <a href="https://bangsluke-portfolio.netlify.app/Luke-Bangs-CV.pdf" target="_blank">this link to see the PDF</a>.
 
 <div align="center">
   <a href="https://bangsluke-portfolio.netlify.app/Luke-Bangs-CV.pdf" target="_blank"><img src="https://bangsluke-assets.netlify.app/images/projects/CV-Image.png" alt="CV Image" height="400" /></a>
