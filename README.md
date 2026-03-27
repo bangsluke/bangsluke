@@ -96,7 +96,7 @@ I'll be looking to learn and use a number of languages to achieve the projects I
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/Cursor-2A2B35?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
+  <a href="https://cursor.com/docs"><img src="https://img.shields.io/badge/Cursor-2A2B35?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"></a>
   <img src="https://img.shields.io/badge/Antigravity-2F8EF5?style=for-the-badge&logo=antigravity&logoColor=white" alt="Antigravity">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/PowerShell-0078D4?style=for-the-badge&logo=PowerShell&logoColor=white" alt="PowerShell">
