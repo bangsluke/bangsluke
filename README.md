@@ -8,15 +8,16 @@
 
 # Luke Bangs
 
-Technical Product Manager with a passion for product and software development, building web applications and automating processes - see my full profile on my <a href="https://bangsluke-portfolio.netlify.app/" target="_blank">Portfolio site</a>.
+Customer Solutions Engineer with a passion for product and software development, building web applications and automating processes - see my full profile on my <a href="https://bangsluke-portfolio.netlify.app/" target="_blank">Portfolio site</a>.
 
 ## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my GitHub profile
 
 * 🌍 I'm based in Chelmsford, Essex, UK
+* 💼 I'm currently working as a Customer Solutions Engineer at <a href="https://www.acresoftware.com/" target="_blank">Acre Software</a>
 * ✉️ You can contact me at <a href="mailto:bangsluke@gmail.com" target="_blank">bangsluke@gmail.com</a> or message me via <a href="https://www.linkedin.com/in/bangsluke/" target="_blank">LinkedIn</a>
 * 🖥️ See my portfolio at <a href="https://bangsluke-portfolio.netlify.app/" target="_blank">bangsluke-portfolio.netlify.app</a>
-* 🧠 I'm continuing to learn techniques for Product Management, whilst learning how to integrate AI into my workflows
-* 🔭 I’m currently looking for a new role in product management, as a Product Associate, Analyst or Delivery Lead
+* 🧠 I'm continuing to learn techniques for Software Development and Product Management, whilst learning how to integrate AI into my workflows
+
 
 <br>
 
